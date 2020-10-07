@@ -5,7 +5,7 @@
   
   <h3 align="center"Me chamo Larissa! </h3> <br> 
   <h5 align="center"> Gosto muito de fotografia e tecnologia de uma forma geral. </h5>
-  <h5 align="center"> Atualmente sou aluna de Engenharia da computação pela Unicarioca e aluna da Recode Pro 2020. </h5> <br>
+  <h5 align="center"> Atualmente sou aluna de Engenharia da computação pela Unicarioca e aluna Full stack da Recode Pro 2020. </h5> <br>
  <h3 align="center"> --------------------------------------------<h3>
  <h4 align="center">  No momento estou estudando: </h4>
  <h5 align="center">  *HTML </h5>
