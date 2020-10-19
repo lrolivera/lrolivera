@@ -1,7 +1,4 @@
    <h2 align="center">🌼 Hi there 🌼</h2>
-   <p align="center">
-     <img src=https://user-images.githubusercontent.com/52868804/95339031-f6daac80-0889-11eb-9570-e078833b5f35.jpeg>
-   </p>
   
   <h3 align="center"> Me chamo Larissa! </h3> <br> 
   <h4 align="center"> Gosto muito de fotografia e tecnologia de uma forma geral. </h5>
