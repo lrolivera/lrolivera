@@ -8,6 +8,6 @@
  <h4>  📌Css </h4>
  <h4>  📌Js </h4>
 
-
+   ![Larissa Oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=lrolivera&show_icons=true&theme=gruvbox)
 
    
