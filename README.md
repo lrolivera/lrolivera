@@ -7,7 +7,7 @@
   <h2 text-align="center">
    
    [![linkedin](https://img.shields.io/static/v1?label=&logo=linkedin&message=Linkedln&color=blue)](https://www.linkedin.com/in/lrolivera/)
-   [![email](https://img.shields.io/static/v1?label=&logo=gmail&message=E-mail&color=red)](mailto:larissa.firmino2018rj@gmail.com)
+   [![email](https://img.shields.io/static/v1?label=&logo=gmail&logoColor=white&message=E-mail&color=red)](mailto:larissa.firmino2018rj@gmail.com)
    [![github](https://img.shields.io/static/v1?label=&logo=github&message=Github&color=black)](https://github.com/lrolivera)
    
   </h2>
