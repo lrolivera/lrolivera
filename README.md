@@ -3,3 +3,4 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrolivera&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) <br>
    [![linkedin](https://img.shields.io/static/v1?label=&logo=linkedin&message=Linkedln&color=blue)](https://www.linkedin.com/in/lrolivera/)
    [![email](https://img.shields.io/static/v1?label=&logo=gmail&message=E-mail&color=red)](mailto:larissa.firmino2018rj@gmail.com)
+   [![github](https://img.shields.io/static/v1?label=&logo=github&message=Github&color=black)](https://github.com/lrolivera)
