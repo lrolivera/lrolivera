@@ -14,10 +14,6 @@
   <a href="https://www.linkedin.com/in/lrolivera/" >
    <img src="https://img.shields.io/static/v1?label=&logo=linkedin&message=Linkedln&color=blue" alt="Linkedin"
   </a>
-   
-   <a href="mailto:larissa.firmino2018rj@gmail.com" >
-   <img src="https://img.shields.io/static/v1?label=&logo=gmail&logoColor=white&message=E-mail&color=red" alt="E-mail"
-  </a>
       
   <a href="https://github.com/lrolivera" >
    <img src="https://img.shields.io/static/v1?label=&logo=github&message=Github&color=black" alt="Github"
