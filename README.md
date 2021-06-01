@@ -6,10 +6,12 @@
      </a>
    </p>
   
-   
-   ![Larissa Oliveira GitHub Stats](https://github-readme-stats.vercel.app/api?username=lrolivera&show_icons=true&theme=dracula&bg_color=194350&border_color=FF8882&title_color=FF8882&icon_color=ff8882&border_radius=20&line_height=20) 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lrolivera&layout=compact&theme=dracula&bg_color=194350&border_color=FF8882&title_color=FF8882&icon_color=ff8882&border_radius=20)](https://github.com/anuraghazra/github-readme-stats) <br>
-   
+   <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=lrolivera&show_icons=true&theme=dracula&bg_color=194350&border_color=FF8882&title_color=FF8882&icon_color=ff8882&border_radius=20&line_height=20">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrolivera&layout=compact&theme=dracula&bg_color=194350&border_color=FF8882&title_color=FF8882&icon_color=ff8882&border_radius=20">
+   </p>
+    
+    
    <p align="center"><br>
      <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
