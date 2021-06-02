@@ -2,7 +2,7 @@
    
    <p>
     <img height="200" width="200" src="https://media.giphy.com/media/BwuVGVdlUrsI24SaQF/giphy.gif" style="max-width: 100%" align="left">
-    <h4 align="center"><br><br><br> Seja bem-vindo(a) ao meu github! </h4>
+    <h2 align="center"><br><br><br> Seja bem-vindo(a) ao meu github! </h2>
    </p>
    
  ##
