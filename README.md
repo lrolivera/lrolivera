@@ -1,13 +1,19 @@
    ![header](https://capsule-render.vercel.app/api?type=waving&color=FF8882&height=180&section=header&text=&fontAlignY=40)
    
+   <p>
+    <img height="200" width="200" src="https://media.giphy.com/media/BwuVGVdlUrsI24SaQF/giphy.gif" style="max-width: 100%" align="left">
+    <h4 align="center"><br><br><br> Seja bem-vindo(a) ao meu github! </h4>
+   </p>
+   
+ ##
+  
+  <br><br><br>
    <p align="center">
-     <a>
-      <img src="https://i.picasion.com/pic91/2ff2a19d08a550780e377099f2490934.gif" width="80" height="80" >
-     </a>
+      <img src="https://i.picasion.com/pic91/2ff2a19d08a550780e377099f2490934.gif" width="75" height="75" >
    </p>
   
    <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=lrolivera&show_icons=true&theme=dracula&bg_color=194350&border_color=FF8882&title_color=FF8882&icon_color=ff8882&border_radius=20&line_height=20">
+     <img src="https://github-readme-stats.vercel.app/api?username=lrolivera&show_icons=true&theme=dracula&bg_color=194350&border_color=FF8882&title_color=FF8882&icon_color=ff8882&border_radius=20&line_height=20&include_all_commits=true&count_private=true"">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrolivera&layout=compact&theme=dracula&bg_color=194350&border_color=FF8882&title_color=FF8882&icon_color=ff8882&border_radius=20">
    </p>
     
