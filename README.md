@@ -1,8 +1,8 @@
    ![header](https://capsule-render.vercel.app/api?type=waving&color=FF8882&height=180&section=header&text=&fontAlignY=40)
    
-   <p>
+   <p aligm="center">
     <img height="200" width="200" src="https://media.giphy.com/media/BwuVGVdlUrsI24SaQF/giphy.gif" style="max-width: 100%" align="left">
-    <h2 align="center"><br><br><br> Seja bem-vindo(a) ao meu github! </h2>
+    <h3 align="center"> <br><br><br> Seja bem-vindo(a) ao meu github! </h3>
    </p>
    
  ##
