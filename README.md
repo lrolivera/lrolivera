@@ -2,12 +2,12 @@
    
    <p align="center">
     <img height="180" width="180" src="https://media.giphy.com/media/BwuVGVdlUrsI24SaQF/giphy.gif" style="max-width: 100%" align="left">
-    <h3 align="center"> <br><br><br> Seja bem-vindo(a) ao meu github! </h3>
+    <h4 align="center"> <br><br><br> Seja bem-vindo(a) ao meu github! </h4>
    </p>
    
  ##
   
-  <br><br><br>
+   <br>
    <p align="center">
       <img src="https://i.picasion.com/pic91/2ff2a19d08a550780e377099f2490934.gif" width="75" height="75" >
    </p>
