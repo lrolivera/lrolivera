@@ -1,12 +1,10 @@
    ![header](https://capsule-render.vercel.app/api?type=waving&color=FF8882&height=180&section=header&text=&fontAlignY=40)
    
-   <div float="left">
-    <img height="180" width="180" src="https://media.giphy.com/media/BwuVGVdlUrsI24SaQF/giphy.gif" style="max-width: 50%" align="left">
-    <p float="right">
-    <h4 style="max-width: 50%" align="center"> <br><br><br> Seja bem-vindo(a) ao meu github! </h4>
+   <p align="center">
+    <img height="250" width="250" src="https://media.giphy.com/media/BwuVGVdlUrsI24SaQF/giphy.gif" style="max-width: 50%" align="left">
+    <h3 style="max-width: 50%" align="center"> <br><br><br> Seja bem-vindo(a) ao meu github! </h3>
     <h2></h2>
    </p>
-   </div>
    
   
    <br><br>
