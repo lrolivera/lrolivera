@@ -26,12 +26,12 @@
         <img src="https://media.giphy.com/media/K7o9FdCoDnwEo/giphy.gif" width=15%  > 
      </p>  
      <p >
-        <img src="https://media.giphy.com/media/xSVQgqlSTMXYs/giphy.gif" width=35px >
+        <img src="https://media.giphy.com/media/xSVQgqlSTMXYs/giphy.gif" width=6% >
      </p>                                                                  
       <p align="center">
-         <img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" width=45px >   
+         <img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" width=13% >   
          <img src="https://media.giphy.com/media/Zx5002aD4bsRAhjRJo/giphy.gif" width="50%" height="20px" >
-         <img src="https://media.giphy.com/media/f8VrfNjFgWB37CZ1dl/giphy.gif" width=65px> 
+         <img src="https://media.giphy.com/media/f8VrfNjFgWB37CZ1dl/giphy.gif" width=15%> 
       </p>       
   </section>                                                                
    
