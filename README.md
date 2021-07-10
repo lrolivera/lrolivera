@@ -15,11 +15,11 @@
    ![Snake animation](https://github.com/lrolivera/lrolivera/blob/output/github-contribution-grid-snake.svg)
    
    <p>
-      <img src="https://media.giphy.com/media/xSVQgqlSTMXYs/giphy.gif" width=20px >
+      <img src="https://media.giphy.com/media/xSVQgqlSTMXYs/giphy.gif" width=40px >
    </p>     
                                                                       
    <p align="center">
-      <img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" width=40px >                                                                    
+      <img src="https://media.giphy.com/media/oGb5zFRuwGoc8/giphy.gif" width=70px >                                                                    
     </p>   
                                                                            
    <p align="center">               
