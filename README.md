@@ -6,13 +6,6 @@
        <h2></h2>
       </p>
    </section>
-  
-   <section class="GithubStats" > 
-      <p align="center">
-         <img src="https://github-readme-stats.vercel.app/api?username=lrolivera&show_icons=true&theme=dracula&bg_color=333d5c&border_color=e77924&title_color=e77924&icon_color=e77924&border_radius=20&line_height=20&include_all_commits=true&count_private=true">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrolivera&layout=compact&theme=dracula&bg_color=333d5c&border_color=e77924&title_color=e77924&icon_color=e77924&border_radius=20">
-      </p>
-   </section> 
    
    ![Snake animation](https://github.com/lrolivera/lrolivera/blob/output/github-contribution-grid-snake.svg)
   
